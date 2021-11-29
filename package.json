@@ -1,0 +1,11 @@
+{
+  "name": "githubfinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "simon441 <simon.cateau@yahoo.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
